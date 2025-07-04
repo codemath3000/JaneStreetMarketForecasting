@@ -1,2 +1,2 @@
-# JaneStreetMarketForecasting
-This repository contains my finalized submissions for the Jane Street Real-Time Market Data Forecasting Kaggle competition.
+# Jane Street Real-Time Market Data Forecasting Kaggle Competition
+This repository contains my finalized submissions for the Jane Street Real-Time Market Data Forecasting Kaggle competition. It is split into two parts: the Kaggle submission file (Evaluation.ipynb) and the training notebook (Training.ipynb). The Training.ipynb produces a pkl file, which is fed into the Evaluation.ipynb file for the actual competition. The model used is an ensemble model, including gradient boosting, random forests, and neural networks.
